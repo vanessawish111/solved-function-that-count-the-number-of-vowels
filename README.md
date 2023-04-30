@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-function-that-count-the-number-of-vowels
+<br>
+Write a function that count the number of vowels, the number of consonants and the average number of letters in each word. The function accept a C-String (char array) or a string object as an argument and return the number of vowels, number of consonants and the average number of letters in each word. Problem: Requirements: Use pointers as part of the solution. . Read a string from a text file. . Write in a text file the string, the number of vowels, the number of consonants and the average number of letters in each word.
